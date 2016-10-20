@@ -1,2 +1,2 @@
 # mysqltopology
-打印mysql主从拓扑关系
+显示mysql主从拓扑关系
